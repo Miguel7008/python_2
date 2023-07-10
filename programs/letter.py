@@ -1,0 +1,5 @@
+print('27 de Junio de 2023')
+print('Siento que es muy importante seguir luchando y esforzandose por las metas que tengo, hay que seguir como el guerrero que se expone a lo incomodo, además es una oportunidad de aprender a mejorar y ver lo bueno de la programación.')
+print('Voy a mejorar mi lógica y mi gusto a programar con python, poder entenderlo mejor y manejarlo para aplicarlo a la vida diaria.')
+print('Nunca te rindas, tu si puedes, recuerda que a pesar de las cosas malas, vienen las cosas buenas, hay que perseverar en las metas y objetivos.')
+print("\U0001F642")
